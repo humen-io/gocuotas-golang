@@ -154,4 +154,4 @@ Para Client V1, misma base host que producción (`https://www.gocuotas.com`) sal
 
 ## Licencia
 
-**MIT** — Copyright (c) 2026 humen-io. Mismos términos que el cliente Java del monorepo; el texto legal completo está en [`java/LICENSE`](../java/LICENSE).
+**MIT** — Copyright (c) 2026 humen-io. Texto completo en [LICENSE](LICENSE).
